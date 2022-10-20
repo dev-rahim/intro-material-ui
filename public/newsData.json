@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Otria Bdosn",
+            "title": "Ukrainian forces push toward Kherson, Kyiv orders electricity curbs - Reuters",
+            "description": "Ukraine's military tightened the noose around Russian forces occupying the southern city of Kherson on Thursday as the government ordered nationwide curbs on electricity use because of Russian missile and drone attacks on power plants.",
+            "url": "https://www.reuters.com/world/europe/ukraine-curbs-power-usage-after-russian-attacks-destroy-some-energy-plants-2022-10-19/",
+            "urlToImage": "https://www.reuters.com/resizer/CLDDbG6egCeUyW8pc5ZxEh_h7FQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VJDVPURY5LZZBA5NTXMHIPYX4.jpg",
+            "publishedAt": "2022-10-20T08:36:00Z",
+            "content": "Oct 20 (Reuters) - Ukraine's military tightened the noose around Russian forces occupying the southern city of Kherson on Thursday as the government ordered nationwide curbs on electricity use becaus… [+5295 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Shane Harris, Dan Lamothe, Alex Horton, Karen DeYoung",
+            "title": "U.S. has viewed wreckage of kamikaze drones Russia used in Ukraine - The Washington Post",
+            "description": "Such information could prove crucial in helping the United States and its Ukrainian allies better identify and ultimately defeat the unmanned aircraft.",
+            "url": "https://www.washingtonpost.com/national-security/2022/10/20/russia-iran-kamikaze-drones/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7H7D5NYGIC6EPG6TB54PGD7F4.jpg&w=1440",
+            "publishedAt": "2022-10-20T08:29:36Z",
+            "content": "Comment on this story\r\nThe U.S. government has examined the wreckage of Iranian-made drones shot down in Ukraine, deepening its insight into the unmanned craft that Russia has launched in a spate of … [+12538 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Konami and Bloober Team announce Silent Hill 2 remake for PS5, PC - Gematsu",
+            "description": "Publisher Konami and developer Bloober Team have announced a remake of Silent Hill 2 for PlayStation 5 and PC (Steam). A release date was not announced. Here is an overview of the game…",
+            "url": "https://www.gematsu.com/2022/10/konami-and-bloober-team-announce-silent-hill-2-remake-for-ps5-pc",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2022/10/SH2-Announce_10-19-22.jpg",
+            "publishedAt": "2022-10-20T06:45:26Z",
+            "content": "Having received a letter from his deceased wife, James heads to where they shared so many memories, in the hope of seeing her one more time: Silent Hill. There, by the lake, he finds a woman eerily s… [+2190 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Zach Crizer",
+            "title": "MLB playoffs: Astros slug three homers off Yankees bullpen, take ALCS Game 1 behind Justin Verlander gem - Yahoo Sports",
+            "description": "The Astros have felled the Yankees in their last two ALCS appearances, and they took the first step toward winning a third in Game 1.",
+            "url": "https://sports.yahoo.com/mlb-playoffs-yankees-astros-alcs-game-1-justin-verlander-aaron-judge-jameson-taillon-222714652.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZB2XNsVs.Qe4l1Mofh14jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/9055b060-501a-11ed-bdbf-ddf1a0f6d329",
+            "publishedAt": "2022-10-20T06:45:19Z",
+            "content": "The Astros walloped three home runs off the Yankees bullpen and Justin Verlander clicked into Cy Young form as Houston seized Game 1 of the ALCS, 4-2.\r\nAfter an early exchange of runs, the teams ente… [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Null",
+            "title": "Liz Truss’s Ailing Government Sinks to New Low in Commons Vote Chaos - Bloomberg",
+            "description": "Null",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=80f1154e-5055-11ed-b7be-737850694648&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMC0xOS90cnVzcy1zLWFpbGluZy1nb3Zlcm5tZW50LXNpbmtzLXRvLW5ldy1sb3ctaW4tY29tbW9ucy12b3RlLWNoYW9z",
+            "urlToImage": "Null",
+            "publishedAt": "2022-10-20T05:55:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Kiran Stacey",
+            "title": "US health officials probe Boston University's Covid virus research - Financial Times",
+            "description": "Inquiry launched into whether study that created artificial form of disease should have gone through more checks",
+            "url": "https://www.ft.com/content/f2e88a9c-104a-4515-8de1-65d72a5903d0",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8803df0a-8dbc-444b-80eb-0ea62877c5ee.png?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-10-20T04:01:42Z",
+            "content": "US health officials have launched an inquiry into a controversial study by scientists at Boston University who created an artificial form of Covid-19 in a laboratory.\r\nThe National Institutes of Heal… [+4714 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "Eonline.com"
+            },
+            "author": "Alyssa Ray",
+            "title": "Kendall Jenner Addresses the Rumor She's a \"Mean Girl\" - E! NEWS",
+            "description": "During the Oct. 20 episode of Hulu's The Kardashians, Kendall Jenner shut down misconceptions about her, including that she's a \"mean girl.\" Here's what she shared.",
+            "url": "https://www.eonline.com/news/1351189/kendall-jenner-addresses-the-rumor-shes-a-mean-girl",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022812/rs_1200x1200-220912113410-1200-kendall_jenner-Paris_Fashion_Week_2022-gj.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-10-20T04:01:22Z",
+            "content": "Kendall Jenner has an issue with crowds, not people.\r\nDuring the Oct. 20 episode of Hulu's The Kardashians, the 818 Tequila founder hit back at the misconception she's a \"mean girl,\" revealing that s… [+680 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Anita Snow",
+            "title": "Arizona refuses US demand to remove containers along border - The Associated Press",
+            "description": "PHOENIX (AP) — Arizona has refused the federal government's demand to take down double-stacked shipping containers it placed to fill gaps in the wall along the U.S.-Mexico border, saying it won't do so until the U.S.",
+            "url": "https://apnews.com/article/military-affairs-arizona-mexico-business-immigration-235a447f416db50d07e13bb6b9226ab1",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/76e21c07f7174617ae044f74f5cbfa69/3000.jpeg",
+            "publishedAt": "2022-10-20T03:53:44Z",
+            "content": "PHOENIX (AP) Arizona has refused the federal governments demand to take down double-stacked shipping containers it placed to fill gaps in the wall along the U.S.-Mexico border, saying it wont do so u… [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "Daily Mail"
+            },
+            "author": "Adam S. Levy",
+            "title": "Gwyneth Paltrow gushes about ex Brad Pitt and says husband Brad Falchuk 'respects' the friendship - Daily Mail",
+            "description": "The Shakespeare in Love star made clear she holds Pitt, 58, in high regard: 'He's an amazing person, and he's a great entrepreneur ... and such a good person.'",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-11334579/Gwyneth-Paltrow-says-former-fianc-Brad-Pitt-just-kind-stayed-touch-years.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/10/20/02/63657743-0-image-a-212_1666229372314.jpg",
+            "publishedAt": "2022-10-20T03:27:56Z",
+            "content": "Gwyneth Paltrow says she's 'stayed in touch over the years' with ex-fiancé Brad Pitt.\r\nThe 50-year-old actress, speaking with Entertainment Tonight Tuesday, told the outlet about reviving her friends… [+5855 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Audrey Conklin",
+            "title": "Oklahoma murders of 4 friends 'very rare,' police chief says as investigation ramps up - Yahoo News",
+            "description": "Okmulgee police called the case of four men who disappeared before they were found murdered \"very rare.\" Police arrested a person of interest on Tuesday.",
+            "url": "https://news.yahoo.com/oklahoma-murders-4-friends-very-001121289.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vhXLuk_MPT5Lis65xC066Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_news_text_979/23a2d640f3082d37ea984fadd5114ff5",
+            "publishedAt": "2022-10-20T02:23:40Z",
+            "content": "Okmulgee County, Oklahoma, Police Chief Joe Prentice says that in his 36 years in law enforcement, he has never seen four adult men disappear at the same time.\r\nAt least that was the case before four… [+3157 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "ESPN"
+            },
+            "author": "Andrew Lopez",
+            "title": "Zion Williamson more than just 'decent' in Pelicans return - ESPN",
+            "description": "Zion Williamson didn't look rusty in his regular-season return to action, collecting 25 points, nine rebounds and four steals in the Pelicans' season-opening win over the Nets on Wednesday night.",
+            "url": "https://www.espn.com/nba/story/_/id/34836423/zion-williamson-more-just-decent-pelicans-return",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1020%2Fr1078469_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-10-20T02:16:25Z",
+            "content": "NEW YORK -- Despite praise from his teammates and coach, Zion Williamson called his regular-season return to the New Orleans Pelicans on Wednesday night just a \"decent starter performance.\"\r\n\"It's a … [+4951 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "MLB Championship Series top plays: Padres win Game 2, Astros take Game 1 - FOX Sports",
+            "description": "Check out the top plays from San Diego's comeback win over Philly in NLCS Game 2 and Houston's ALCS Game 1 win over N.Y.",
+            "url": "https://www.foxsports.com/stories/mlb/mlb-championship-series-top-plays-padres-win-game-2-astros-take-game-1",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/10/1408/814/10.19.22_MLBChampSeriesTopPlays_Horizontal.jpg?ve=1&tl=1",
+            "publishedAt": "2022-10-20T02:15:00Z",
+            "content": "The NLCS continued on Wednesday, with the Padres evening the series at 1-1 with an 8-5 win over the Phillies, while the Astros took Game 1 oof the ALCS, defeating the Yankees 4-2.\r\nHere are the top p… [+5105 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "SciTechDaily"
+            },
+            "author": "Null",
+            "title": "Webb Space Telescope’s Captures Incredible Star-Filled Portrait of Pillars of Creation - SciTechDaily",
+            "description": "Near-Infrared Light Uncovers Vast Populations of Forming Stars, Many Still Encased in Dust NASA’s James Webb Space Telescope’s Near-Infrared Camera captured this glittering view of the Pillars of Creation – and it begs to be examined pixel by pixel. It is a s…",
+            "url": "https://scitechdaily.com/webb-space-telescopes-captures-incredible-star-filled-portrait-of-pillars-of-creation/",
+            "urlToImage": "https://scitechdaily.com/images/Webb-Pillars-of-Creation-scaled.jpg",
+            "publishedAt": "2022-10-20T02:10:23Z",
+            "content": "BySpace Telescope Science InstituteOctober 19, 2022\r\nNear-Infrared Light Uncovers Vast Populations of Forming Stars, Many Still Encased in Dust\r\nNASA\r\nEstablished in 1958, the National Aeronautics an… [+7758 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "MarketWatch"
+            },
+            "author": "Therese Poletti",
+            "title": "Elon Musk pumps Tesla stock with ridiculous $4 trillion target. Is a dump coming next? - MarketWatch",
+            "description": "Tesla CEO proclaims that Tesla could be worth as much as the combined valuations of Apple and Saudi Aramco, the two most valuable companies in the world, while investors await potential stock sales to complete Twitter deal",
+            "url": "https://www.marketwatch.com/story/elon-musk-pumps-tesla-stock-with-ridiculous-4-trillion-target-is-a-dump-coming-next-11666231310",
+            "urlToImage": "https://images.mktw.net/im-637203/social",
+            "publishedAt": "2022-10-20T02:01:00Z",
+            "content": "Another Tesla Inc. earnings call, and another fanciful Elon Musk prediction that likely encouraged yet another open file at the Securities and Exchange Commission on Wednesday. The chief executive of… [+5119 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zachary Cohen, Tierney Sneed",
+            "title": "Trump knew voter fraud claims were wrong, federal judge says as he orders John Eastman emails turned over - CNN",
+            "description": "\"The emails show that President Trump knew that the specific numbers of voter fraud were wrong but continued to tout those numbers, both in court and to the public,\" the judge wrote.",
+            "url": "https://www.cnn.com/2022/10/19/politics/eastman-house-trump-documents/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221019170730-trump-eastman-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-20T01:59:00Z",
+            "content": "A federal judge on Wednesday ordered the release of emails from John Eastman, a former Donald Trump attorney, to House investigators, saying the communications were made in furtherance of a crime rel… [+4991 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "I was dragged into China consulate, protester Bob Chan says - BBC",
+            "description": "A Hong Kong pro-democracy protester gives his account of violent scenes at Manchester's Chinese consulate.",
+            "url": "https://www.bbc.com/news/world-asia-china-63318285",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E96/production/_127243730_ab007ba2-be91-4e18-9589-93e48eab6dea.jpg",
+            "publishedAt": "2022-10-20T01:56:51Z",
+            "content": "A protester says he was not trying to enter Manchester's Chinese consulate during a pro-democracy demonstration that saw violent scenes on Sunday.\r\nBob Chan told a news conference he was dragged onto… [+6037 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacqueline Howard, Raenu Charles",
+            "title": "Black heart failure patients less likely to get devices and transplants they need, study finds - CNN",
+            "description": "There's growing evidence that Black heart failure patients are less likely to get advanced therapies than White patients.",
+            "url": "https://www.cnn.com/2022/10/19/health/racial-disparities-heart-patients/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/180208120028-heart-attack.jpg?q=x_2,y_0,h_1078,w_1915,c_crop/w_800",
+            "publishedAt": "2022-10-20T01:18:00Z",
+            "content": "Theres growing evidence that Black heart failure patients are less likely to get advanced therapies than White patients.\r\nA study published Wednesday in the journal Circulation: Heart Failure finds t… [+3807 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon and Jorge L. Ortiz, USA TODAY",
+            "title": "Ukraine war live updates: Putin orders martial law in annexed regions - USA TODAY",
+            "description": "Restrictions on travel and gatherings, tighter censorship and broader authority for law enforcers are likely under Putin's martial law. Updates.",
+            "url": "https://www.usatoday.com/story/news/world/2022/10/19/ukraine-russia-war-live-updates/10540340002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/19/USAT/1c38842e-2567-4cd1-b65e-27adf833a4df-AP_Russia_Ukraine_War_13.jpg?auto=webp&crop=1999,1125,x0,y185&format=pjpg&width=1200",
+            "publishedAt": "2022-10-20T00:45:00Z",
+            "content": "Russian President Vladimir Putin declared martial law Wednesday in the four regions of Ukraine that Moscow illegally annexed as Ukrainian troops continue their unrelenting drive to retain control of … [+7344 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Null",
+            "title": "Trump deposed in defamation suit filed by E. Jean Carroll - POLITICO",
+            "description": "The former president has said her rape allegation is “a hoax and a lie.”",
+            "url": "https://www.politico.com/news/2022/10/19/trump-deposed-jean-carroll-defamation-lawsuit-00062628",
+            "urlToImage": "https://static.politico.com/d5/3f/d77366ff4812ac9d469969b1baa8/trump-columnist-lawsuit-93487.jpg",
+            "publishedAt": "2022-10-20T00:43:26Z",
+            "content": "Were pleased that on behalf of our client, E. Jean Carroll, we were able to take Donald Trumps deposition today. We are not able to comment further, the law firm representing her, Kaplan Hecker &amp;… [+2560 chars]"
+        },
+        {
+            "source": {
+                "id": "Null",
+                "name": "YouTube"
+            },
+            "author": "Null",
+            "title": "Supreme Court asked to block Biden's student debt program - 9NEWS",
+            "description": "A taxpayers' group in Wisconsin has asked the U.S. Supreme Court to block Biden's loan forgiveness plan.More local videos here: https://bit.ly/2Pa0d1l  Subsc...",
+            "url": "https://www.youtube.com/watch?v=ZJMs0q05bm4",
+            "urlToImage": "https://i.ytimg.com/vi/ZJMs0q05bm4/maxresdefault.jpg",
+            "publishedAt": "2022-10-19T22:43:45Z",
+            "content": "Null"
+        }
+    ]
+}
